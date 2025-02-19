@@ -18,7 +18,7 @@ headers = {
 }
 
 # Serper API Key
-SERPER_API_KEY = "b675913072e8fc94e598d86c445282f78fec5f0d"
+SERPER_API_KEY = ""
 
 def search_with_serper(name):
     url = "https://google.serper.dev/search"
